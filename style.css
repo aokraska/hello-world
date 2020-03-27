@@ -1,0 +1,24 @@
+
+body {
+    background-color: pink;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+h1 {
+    font-family: "Times New Roman", Times, serif;
+}
+h2 {
+    font-family: "Times New Roman", Times, serif;
+}
+h3  {
+    font-family: "Times New Roman", Times, serif;
+}
+div {
+    background-color: #dddd55;
+    border-style: dashed;
+}
+table {
+    background-color: #ddeeff;
+    border-style: double;
+}
